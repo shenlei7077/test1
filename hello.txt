@@ -2,3 +2,5 @@
 0621
 hive也学完了
 hadoop学完了
+kafka也学完了
+zookeeper也学了
